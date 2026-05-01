@@ -37,7 +37,7 @@ setup(
     install_requires=[
         'pycountry',
         'chardet',
-        'vdf @ https://github.com/geferon/vdf/tarball/master'
+        'vdf @ https://github.com/DDRKirbyISQ/vdf/tarball/master'
     ],
     long_description=long_description,
 )
